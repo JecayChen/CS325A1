@@ -1,14 +1,14 @@
-# Start of a README.md
+# Re:Start of a README.md
 
 Lorem Ipsum
 
-## Look, It's Code
+## Look Again, It's Code
 
 The standard intro
 
 <code>print("Hello, World")</code>
 
-### My excuse
+### My Argument
 
 Yes, I did upload an image of an animal. It's a python.
 
