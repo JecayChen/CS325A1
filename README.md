@@ -11,5 +11,9 @@ The standard intro
 ### My excuse
 
 Yes, I did upload an image of an animal. It's a python.
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png)
+
+<br>
+<br>
+
+![Python](python.png)
 
